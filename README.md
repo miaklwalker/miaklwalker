@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @miaklwalker
-- 👀 I’m interested in learning web development and starting my career in it
+- 👀 I’m interested in anything web development
 - 🌱 I’m currently learning more about design 
 - 💞️ I’m looking to collaborate on anything!
 - 📫  ouisihai@gmail.com
